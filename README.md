@@ -92,8 +92,10 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 ## OUTPUT:
 ![AREA OF TRIANGLE](areaoftriangle.png)
+
 ### Home Page:
 
 
 ## Result:
+the experiment is successful.
 
